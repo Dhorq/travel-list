@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Travel List",
+  "name": "Travel List (Item List App)",
   "icons": [
     {
       "src": "favicon.ico",
